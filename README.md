@@ -23,4 +23,4 @@ economic operation data, industry sales data, market data, competitor data, etc.
 
 #### 5. New data:
 
-industrial sensors, radio frequency identification (RFID), bar codes, industrial automatic control systems, enterprise resource planning (ERP), computer-aided design (CAD/CAM) and other technologies
+industrial sensors, radio frequency identification (RFID), bar codes, industrial automatic control systems, enterprise resource planning (ERP), computer-aided design (CAD/CAM) and other technologies.
